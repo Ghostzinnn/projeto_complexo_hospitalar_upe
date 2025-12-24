@@ -85,6 +85,6 @@ python sistema_agendamento.py
 
 ## 👨‍💻 Autor
 
-**Erlon Andrade**  
+**Erlon Matheus**  
 Estudante de Análise e Desenvolvimento de Sistemas  
 Projeto desenvolvido para fins educacionais e portfólio.
